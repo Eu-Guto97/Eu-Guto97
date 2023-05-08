@@ -1,4 +1,3 @@
-# 💫 About Me:
 Sou estudante de analise e desenvolvimento de sistemas<br>Estou a procura de estágio <br>
 
 
